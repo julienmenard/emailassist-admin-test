@@ -30,6 +30,12 @@
           <string>com.jmeanrd42.emailassist-admin</string>
         </array>
       </dict>
+      <dict>
+        <key>CFBundleURLSchemes</key>
+        <array>
+          <string>exp+emailassist-admin</string>
+        </array>
+      </dict>
     </array>
     <key>CFBundleVersion</key>
     <string>1</string>
